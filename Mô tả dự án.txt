@@ -1,0 +1,2 @@
+Vì project được phát triển tại cơ sở dữ liệu mysql, sau khi deploy lên heroku chuyển cơ sở dữ liệu từ mysql-->postgres nên hiện tại còn một số lỗi chưa biết cách khắc phục tuy nhiên bạn có thể tham khảo project qua liên kết dưới đây:
+https://drive.google.com/drive/folders/1MNQaswO7SW6kmnX3Ibpn1YEIM2KyCe-t?usp=sharing để biết tăng độ chính xác, và tỉ lệ lỗi thấp của dự án
